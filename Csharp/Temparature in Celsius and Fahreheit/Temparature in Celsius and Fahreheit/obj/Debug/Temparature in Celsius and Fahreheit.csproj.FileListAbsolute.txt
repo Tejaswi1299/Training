@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\bin\Debug\Temparature in Celsius and Fahreheit.exe.config
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\bin\Debug\Temparature in Celsius and Fahreheit.exe
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\bin\Debug\Temparature in Celsius and Fahreheit.pdb
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\obj\Debug\Temparature in Celsius and Fahreheit.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\obj\Debug\Temparature in Celsius and Fahreheit.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\obj\Debug\Temparature in Celsius and Fahreheit.exe
+C:\Tejaswi\Training\Csharp\Temparature in Celsius and Fahreheit\Temparature in Celsius and Fahreheit\obj\Debug\Temparature in Celsius and Fahreheit.pdb
