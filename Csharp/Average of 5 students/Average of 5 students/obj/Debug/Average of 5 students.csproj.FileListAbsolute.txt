@@ -1,0 +1,6 @@
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\bin\Debug\Average of 5 students.exe.config
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\bin\Debug\Average of 5 students.exe
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\bin\Debug\Average of 5 students.pdb
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\obj\Debug\Average of 5 students.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\obj\Debug\Average of 5 students.exe
+C:\Tejaswi\Training\Csharp\Average of 5 students\Average of 5 students\obj\Debug\Average of 5 students.pdb

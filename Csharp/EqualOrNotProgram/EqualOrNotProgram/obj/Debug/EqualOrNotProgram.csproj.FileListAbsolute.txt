@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\obj\Debug\EqualOrNotProgram.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\obj\Debug\EqualOrNotProgram.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\bin\Debug\EqualOrNotProgram.exe.config
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\bin\Debug\EqualOrNotProgram.exe
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\bin\Debug\EqualOrNotProgram.pdb
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\obj\Debug\EqualOrNotProgram.exe
+C:\Tejaswi\Training\Csharp\EqualOrNotProgram\EqualOrNotProgram\obj\Debug\EqualOrNotProgram.pdb

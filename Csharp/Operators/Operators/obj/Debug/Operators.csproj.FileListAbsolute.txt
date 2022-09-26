@@ -1,0 +1,6 @@
+C:\Tejaswi\Training\Csharp\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Tejaswi\Training\Csharp\Operators\Operators\bin\Debug\Operators.exe
+C:\Tejaswi\Training\Csharp\Operators\Operators\bin\Debug\Operators.pdb
+C:\Tejaswi\Training\Csharp\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Operators\Operators\obj\Debug\Operators.exe
+C:\Tejaswi\Training\Csharp\Operators\Operators\obj\Debug\Operators.pdb

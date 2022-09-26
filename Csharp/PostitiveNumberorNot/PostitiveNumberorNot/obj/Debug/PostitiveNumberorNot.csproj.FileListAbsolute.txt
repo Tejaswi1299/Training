@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\bin\Debug\PostitiveNumberorNot.exe.config
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\bin\Debug\PostitiveNumberorNot.exe
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\bin\Debug\PostitiveNumberorNot.pdb
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\obj\Debug\PostitiveNumberorNot.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\obj\Debug\PostitiveNumberorNot.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\obj\Debug\PostitiveNumberorNot.exe
+C:\Tejaswi\Training\Csharp\PostitiveNumberorNot\PostitiveNumberorNot\obj\Debug\PostitiveNumberorNot.pdb
