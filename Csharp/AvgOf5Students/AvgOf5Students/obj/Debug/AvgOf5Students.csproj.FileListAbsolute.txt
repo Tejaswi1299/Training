@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\bin\Debug\AvgOf5Students.exe.config
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\bin\Debug\AvgOf5Students.exe
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\bin\Debug\AvgOf5Students.pdb
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\obj\Debug\AvgOf5Students.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\obj\Debug\AvgOf5Students.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\obj\Debug\AvgOf5Students.exe
+C:\Tejaswi\Training\Csharp\AvgOf5Students\AvgOf5Students\obj\Debug\AvgOf5Students.pdb
