@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\bin\Debug\MinandMaxValueofArray.exe.config
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\bin\Debug\MinandMaxValueofArray.exe
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\bin\Debug\MinandMaxValueofArray.pdb
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\obj\Debug\MinandMaxValueofArray.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\obj\Debug\MinandMaxValueofArray.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\obj\Debug\MinandMaxValueofArray.exe
+C:\Tejaswi\Training\Csharp\Assignment2\MinandMaxValueofArray\MinandMaxValueofArray\obj\Debug\MinandMaxValueofArray.pdb

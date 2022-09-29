@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\obj\Debug\AscendingandDescending.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\obj\Debug\AscendingandDescending.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\bin\Debug\AscendingandDescending.exe.config
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\bin\Debug\AscendingandDescending.exe
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\bin\Debug\AscendingandDescending.pdb
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\obj\Debug\AscendingandDescending.exe
+C:\Tejaswi\Training\Csharp\Assignment2\AscendingandDescending\AscendingandDescending\obj\Debug\AscendingandDescending.pdb

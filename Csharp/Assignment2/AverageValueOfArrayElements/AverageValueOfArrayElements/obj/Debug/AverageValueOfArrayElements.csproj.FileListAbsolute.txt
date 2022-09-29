@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\bin\Debug\AverageValueOfArrayElements.exe.config
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\bin\Debug\AverageValueOfArrayElements.exe
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\bin\Debug\AverageValueOfArrayElements.pdb
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\obj\Debug\AverageValueOfArrayElements.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\obj\Debug\AverageValueOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\obj\Debug\AverageValueOfArrayElements.exe
+C:\Tejaswi\Training\Csharp\Assignment2\AverageValueOfArrayElements\AverageValueOfArrayElements\obj\Debug\AverageValueOfArrayElements.pdb
