@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\obj\Debug\ReverseofString.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\obj\Debug\ReverseofString.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\bin\Debug\ReverseofString.exe.config
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\bin\Debug\ReverseofString.exe
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\bin\Debug\ReverseofString.pdb
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\obj\Debug\ReverseofString.exe
+C:\Tejaswi\Training\Csharp\Assignment2\ReverseofString\ReverseofString\obj\Debug\ReverseofString.pdb

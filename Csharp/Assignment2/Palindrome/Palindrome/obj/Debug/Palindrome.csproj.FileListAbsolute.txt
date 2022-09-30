@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Tejaswi\Training\Csharp\Assignment2\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

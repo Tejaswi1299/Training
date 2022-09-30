@@ -6,18 +6,16 @@ using System.Threading.Tasks;
 
 namespace ReverseofString
 {
-    class Program
+    class ReverseofString
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a word:");
-            string str = Console.ReadLine();
-            char[] chars = str.ToCharArray();
-            
-                {
-
-            }
-           
-        } 
+            string stringInput = Console.ReadLine();
+             char[] charArray = stringInput.ToCharArray();
+              Array.Reverse(charArray);
+              Console.WriteLine(new string(charArray));
+            Console.ReadLine();
+        }
     }
 }
