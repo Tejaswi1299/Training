@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\bin\Debug\Accounts.exe.config
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\bin\Debug\Accounts.exe
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\bin\Debug\Accounts.pdb
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\obj\Debug\Accounts.exe
+C:\Tejaswi\Training\Csharp\Assignment3\Accounts\Accounts\obj\Debug\Accounts.pdb
