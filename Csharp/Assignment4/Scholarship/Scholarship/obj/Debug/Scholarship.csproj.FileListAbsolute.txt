@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\bin\Debug\Scholarship.exe
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\obj\Debug\Scholarship.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\obj\Debug\Scholarship.exe
+C:\Tejaswi\Training\Csharp\Assignment4\Scholarship\Scholarship\obj\Debug\Scholarship.pdb

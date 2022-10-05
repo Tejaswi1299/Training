@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\bin\Debug\AcceptTwoStrings.exe.config
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\bin\Debug\AcceptTwoStrings.exe
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\bin\Debug\AcceptTwoStrings.pdb
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\obj\Debug\AcceptTwoStrings.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\obj\Debug\AcceptTwoStrings.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\obj\Debug\AcceptTwoStrings.exe
+C:\Tejaswi\Training\Csharp\Assignment4\AcceptTwoStrings\AcceptTwoStrings\obj\Debug\AcceptTwoStrings.pdb

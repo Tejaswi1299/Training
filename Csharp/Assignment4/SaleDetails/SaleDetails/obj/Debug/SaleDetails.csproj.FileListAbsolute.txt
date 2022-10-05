@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\bin\Debug\SaleDetails.exe.config
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\bin\Debug\SaleDetails.exe
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\bin\Debug\SaleDetails.pdb
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\obj\Debug\SaleDetails.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\obj\Debug\SaleDetails.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\obj\Debug\SaleDetails.exe
+C:\Tejaswi\Training\Csharp\Assignment4\SaleDetails\SaleDetails\obj\Debug\SaleDetails.pdb
