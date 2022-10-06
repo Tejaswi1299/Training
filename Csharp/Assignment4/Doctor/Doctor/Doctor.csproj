@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F8D11C5C-7629-41B1-8C60-F25A2F1B4F88}</ProjectGuid>
+    <ProjectGuid>{40C4845C-F1C1-44A3-9DAB-CD541A4CA452}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AcceptTwoStrings</RootNamespace>
-    <AssemblyName>AcceptTwoStrings</AssemblyName>
+    <RootNamespace>Doctor</RootNamespace>
+    <AssemblyName>Doctor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>AcceptTwoStrings.Customer</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CountLetterOccurances.cs" />
-    <Compile Include="Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

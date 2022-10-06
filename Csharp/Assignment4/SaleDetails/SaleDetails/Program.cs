@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//3.Create a class called Saledetails which has data members like Salesno, Productno, Price, dateofsale, Qty, TotalAmount
+//Create a method called Sales() that takes qty, Price details of the object and updates the TotalAmount as Qty *Price
+//Pass the other information like SalesNo, Productno, Price, Qty and Dateof sale through constructor
+//call the show data method to display the values.
+//Hint : Use This pointer
 namespace SaleDetails
 {
     class Program
@@ -14,14 +18,13 @@ namespace SaleDetails
         String dateofsale;
         int Qty;
         int TotalAmount;
-        public void Sales()
+        public int Sales(int Price, int Qty)
         {
-            Qty = 2;
-            Price = 1000;
-            TotalAmount = (Qty * Price);   
-            
+          
+         return TotalAmount = (Qty * Price);   
+          
         }
-         Program ( int productno, int salesno,string Dateofsale)
+        public Program ( int productno, int salesno,string Dateofsale)
         {
             Productno = productno;
             Salesno= salesno;
@@ -42,7 +45,11 @@ namespace SaleDetails
             //Console.WriteLine("Productno: " + P.Productno);
             //Console.WriteLine("salesno : " +P.Salesno );
             //Console.WriteLine("Dateofsale : " + P.dateofsale);
-            P.Sales();
+           
+            P.Price = 2000;
+            Console.Write("Enter Quantity : ");
+            P.Qty = Convert.ToInt32(Console.ReadLine());
+            P.TotalAmount=P.Sales(P.Price,P.Qty);
             P.showDetails();
             Console.Read();
         }

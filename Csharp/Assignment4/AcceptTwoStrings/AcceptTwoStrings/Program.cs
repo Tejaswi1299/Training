@@ -6,24 +6,26 @@ using System.Threading.Tasks;
 
 namespace AcceptTwoStrings
 {
+  
     class Program
     {
         public static void Main(string[] args)
         {
-            
-            Program.Display();
-        }
-        static void Display()
-        {
             Console.WriteLine("Enter first Name :");
-            string str = Console.ReadLine();
-            string s = str.ToUpper();
-            Console.WriteLine("Enter second Name :");
-            string str1 = Console.ReadLine();
-            string s1 = str1.ToUpper();
+            string FirstName = Console.ReadLine();
 
-            Console.WriteLine(s + '\n' + s1);
-            Console.Read();
+            Console.WriteLine("Enter second Name :");
+            string LastName = Console.ReadLine();
+            Program.Display(FirstName, LastName);
+        }
+
+       
+        static void Display(String FirstName, string LastName)
+        {
+            
+
+            Console.WriteLine(FirstName.ToUpper() + '\n' + LastName.ToUpper());
+            Console.ReadLine();
         }
     }
 }

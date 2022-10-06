@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\bin\Debug\Doctor.exe.config
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\bin\Debug\Doctor.exe
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\bin\Debug\Doctor.pdb
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\obj\Debug\Doctor.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\obj\Debug\Doctor.exe
+C:\Tejaswi\Training\Csharp\Assignment4\Doctor\Doctor\obj\Debug\Doctor.pdb
