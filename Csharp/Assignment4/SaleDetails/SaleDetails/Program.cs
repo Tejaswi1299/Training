@@ -11,32 +11,40 @@ namespace SaleDetails
         int Salesno;
         int Productno;
         int Price;
-        DateTime dateofsale;
+        String dateofsale;
         int Qty;
         int TotalAmount;
-        static void Main(string[] args)
-        {
-            details D = new details(123, 12);
-            D.Sales();
-            D.showDetails();
-            Console.Read();
-        }
         public void Sales()
         {
-            Qty = 1;
+            Qty = 2;
             Price = 1000;
-            TotalAmount = (Qty * Price);    
+            TotalAmount = (Qty * Price);   
+            
         }
-         public details ( int Productno, int Salesno,DateTime dateofsale)
+         Program ( int productno, int salesno,string Dateofsale)
         {
-           this.Productno= 123;
-            this.Salesno = 12;
-          
+            Productno = productno;
+            Salesno= salesno;
+            dateofsale=Dateofsale ;
+            
         }
         public void showDetails()
         {
-            Console.WriteLine(Qty + '\n' + Price + '\n' + TotalAmount + '\n' + Productno + '\n' + Salesno);
             
+            Console.WriteLine("Quantity id: "+Qty + "\n" +"Price is :" +Price + "\n" + "Total Amount is :"+TotalAmount );
+            Console.WriteLine("Productno: " + Productno);
+            Console.WriteLine("salesno : " + Salesno);
+            Console.WriteLine("Dateofsale : " + dateofsale);
+        }
+        static void Main(string[] args)
+        {
+            Program P = new Program(123, 12, "10 / 06 /2022");
+            //Console.WriteLine("Productno: " + P.Productno);
+            //Console.WriteLine("salesno : " +P.Salesno );
+            //Console.WriteLine("Dateofsale : " + P.dateofsale);
+            P.Sales();
+            P.showDetails();
+            Console.Read();
         }
 
 
