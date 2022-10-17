@@ -14,7 +14,7 @@ namespace CodeBasedTest
     class Cricket
     {
 
-        Cricket cricket = new Cricket();
+        //Cricket cricket = new Cricket();
         public static List<int> PointsCalculation(int no_of_matches)
         {
             int avg;

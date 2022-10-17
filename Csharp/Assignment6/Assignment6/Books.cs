@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*2.Create a structure
+struct Books ,private string title;private string author;private string subject;private int book_id;
+Include 2 methods called GetValues() and ShowValues() to accept and display details.*/
+
 namespace Assignment6
 {
     struct Book
