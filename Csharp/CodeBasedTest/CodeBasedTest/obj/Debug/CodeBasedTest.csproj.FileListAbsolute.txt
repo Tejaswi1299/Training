@@ -1,0 +1,7 @@
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.exe.config
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.exe
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\bin\Debug\CodeBasedTest.pdb
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.exe
+C:\Tejaswi\Training\Csharp\CodeBasedTest\CodeBasedTest\obj\Debug\CodeBasedTest.pdb
