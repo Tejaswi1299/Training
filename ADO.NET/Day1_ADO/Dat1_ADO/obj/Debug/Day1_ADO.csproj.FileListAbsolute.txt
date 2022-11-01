@@ -1,0 +1,8 @@
+C:\Tejaswi\Training\ADO.NET\Dat1_ADO\Dat1_ADO\obj\Debug\Day1_ADO.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\bin\Debug\Dat1_ADO.exe.config
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\bin\Debug\Dat1_ADO.exe
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\bin\Debug\Dat1_ADO.pdb
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\obj\Debug\Day1_ADO.csproj.AssemblyReference.cache
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\obj\Debug\Day1_ADO.csproj.CoreCompileInputs.cache
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\obj\Debug\Dat1_ADO.exe
+C:\Tejaswi\Training\ADO.NET\Day1_ADO\Dat1_ADO\obj\Debug\Dat1_ADO.pdb
